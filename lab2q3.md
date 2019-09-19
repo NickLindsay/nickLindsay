@@ -1,13 +1,13 @@
 <html>
 <body>
   <h1>Mobile Development Tools</h1>
-  <p>Tool name:</p>
-  <p>Plateform:</p>
+  <p>Tool name: Apache Cordova</p>
+  <p>Plateform: iOS, Android, Windows(8.1,10)</p>
   <p>Application development type:</p>
-  <p>Website:</p>
+  <p>Website: https://cordova.apache.org </p>
   <p>Developers:</p>
-  <p>Release date:</p>
-  <p>License:</p>
+  <p>Release date: 2009</p>
+  <p>License: Apache License 2.0</p>
   <p>Price:</p>
   <p>Programming language(s):</p>
   <p>Features:</p>
