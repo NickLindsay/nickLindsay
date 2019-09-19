@@ -1,2 +1,0 @@
-# nickLindsay
-Lab 2
